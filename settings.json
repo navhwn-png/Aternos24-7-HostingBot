@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mccreap_game.aternos.me",
-    "port": 61738,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
